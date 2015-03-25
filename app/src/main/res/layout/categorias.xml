@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+* Nombre del Layout: Categorias
+* Info de la version: Android 1.0.2
+* Copyrigth: Alma Granados (Programador)
+-->
+
+    <!--Layout que contiene el diseño de nuestra activity de categorias, se diseña cada funcion
+     que tiene el submenu de categorias-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</LinearLayout>

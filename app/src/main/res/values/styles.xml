@@ -1,0 +1,14 @@
+<!--
+   * Nombre del Layout: styles
+   * Info de la version: Android 1.0.2
+   * Copyrigth: Alma Granados (Programador)
+   -->
+
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
